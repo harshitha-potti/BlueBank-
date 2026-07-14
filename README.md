@@ -73,4 +73,4 @@ git clone https://github.com/harshitha-potti/BlueBank-.git
 
 ## Author
 
-**Soha Firdaus Khan**
+**Potti Harshitha**
