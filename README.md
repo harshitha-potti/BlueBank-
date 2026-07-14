@@ -62,7 +62,7 @@ BlueBank is a Banking Customer Management System developed using Java Spring Boo
 1. Clone the repository
 
 ```bash
-git clone https://github.com/sfkhan296/BlueBank-.git
+git clone https://github.com/harshitha-potti/BlueBank-.git
 ```
 
 2. Open in IntelliJ IDEA or VS Code
